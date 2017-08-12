@@ -1,13 +1,12 @@
 This demonstrates running a fully connected layer GAN , a Least Square GAN and a Deep Convolutional GAN on MNIST dataset to generate some excellent fake data .
 
-# A sample generated from Fully connected GAN
+### Samples generated from the GANs
 
 ![Vanilla GAN output](fully_connected_mnist.png)
-
-# Sample generated from Least Square GAN
+* Vanilla GAN generated*
 
 ![LSGAN output](lsgan_mnist.png)
-
-# Sample generated from Deep Convolutional GAN
+* LSGAN generated *
 
 ![DCGAN output](dcgan_mnist.png)
+* DCGAN generated *
