@@ -7,4 +7,4 @@ This demonstrates running a fully connected layer GAN , a Least Square GAN and a
 
 |:---:|:---:|:---:|
 
-
+| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
